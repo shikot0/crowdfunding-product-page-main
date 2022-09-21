@@ -282,7 +282,7 @@ h1 {
     padding: 3% 3% 1%;  
     border: 1px solid hsla(0, 0%, 48%, 0.3); 
     box-shadow: 0 0 2000px black;   
-    transition: .2s;
+    transition: .2s; 
     /* transform: translate(-50%, 0);    */
     opacity: 0;  
     transform: translate(-50%, -1000px);   
